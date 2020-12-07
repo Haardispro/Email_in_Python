@@ -1,7 +1,7 @@
 from tkinter import *
 import sys
 w = Tk()
-w.title("Gmail")
+w.title("Gmail - Simple and Secure")
 
 w.configure(bg = "white")
 w.geometry("600x400")
